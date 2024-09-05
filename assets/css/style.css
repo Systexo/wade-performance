@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 80px;
 }
 
 /*--------------------------------------------------------------
@@ -360,7 +360,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #e00404;
+  background: #1a0707;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -1179,7 +1179,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #1a0707;
+  color: white;
   font-size: 14px;
   background: #630202;
 }
@@ -1202,12 +1202,12 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #ff1313;
+  color: white;
 }
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #fb3535;
+  color: white;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1234,7 +1234,7 @@ section {
   padding-top: 0;
 }
 #footer .footer-top .footer-links ul a {
-  color: #ff1313;
+  color: white;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1260,7 +1260,7 @@ section {
   position: relative;
   border-radius: 50px;
   text-align: left;
-  border: 1px solid #d97070;
+  border: 1px solid #f0c9c9;
 }
 #footer .footer-newsletter form input[type=email] {
   border: 0;
