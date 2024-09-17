@@ -2,7 +2,7 @@ import os
 import time
 
 # Define the directory containing the .jpeg files
-directory = "assets\img\portfolio\job-2"
+directory = "static/assets/img/portfolio/highlight"
 
 # Get a list of all .jpeg files in the directory
 files = [f for f in os.listdir(directory) if f.endswith('.jpeg')]
